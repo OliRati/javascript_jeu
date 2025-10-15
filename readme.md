@@ -37,6 +37,8 @@ Pour me partager votre dépot , forker mon dépot de la foad et ajouter votre ur
 
 Mettre son l'url de votre dépot github.
 
+https://github.com/OliRati/jeu_javascript
+
 ## Jeu en javascript
 
 Voici la régle du jeu :
